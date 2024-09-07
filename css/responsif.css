@@ -3,13 +3,13 @@
 /*Facebook  : https://facebook.com/okikrbln2k2*/
 /*Instagram : https://instagram.com/hi.kekk*/
 
-@media (min-width: 300%) and (max-width: 640%) {
+@media (min-width: 300px) and (max-width: 640px) {
     .ml1 {
         margin-top: 45%;
     }
 
     .kontener2 {
-        padding: 10%;
+        padding: 10px;
         text-align: center;
         margin-top: 60%;
     }
