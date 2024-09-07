@@ -77,8 +77,11 @@ html {
 }
 
 section .gambar {
-  border-radius: 10px;
+  max-width: 100%;  /* Membuat gambar menyesuaikan dengan lebar kontainer */
+  height: auto;     /* Mempertahankan aspek rasio gambar */
+  border-radius: 10px; /* Radius sudut jika diperlukan */
 }
+
 
 section .ucapan {
   font-weight: bold;
